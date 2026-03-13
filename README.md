@@ -1,0 +1,1 @@
+# Does-Bigger-Mean-Funnier-Evaluating-Humor-Generation-Across-the-Qwen3-Model-Family
